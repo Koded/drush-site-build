@@ -5,7 +5,7 @@ taken from a Drush alias file.
 
 ## Installation
 
-Copy this folder into `~/.drush`.
+Clone into `~/.drush/site-build/`.
 
 ## Setup
 
